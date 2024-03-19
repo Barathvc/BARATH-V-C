@@ -24,4 +24,4 @@ Hello there! 👋 As a dynamic and eager recent graduate, I bring a blend of ski
 ## 📫 How to reach me
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/barath-vc/)
-- Send me an email at [pugazharasankct@gmail.com](mailto:vcbarath02@gmail.com)
+- Send me an email at [vcbarath02@gmail.com](mailto:vcbarath02@gmail.com)
